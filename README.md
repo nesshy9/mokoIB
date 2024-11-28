@@ -1,6 +1,6 @@
 ![](https://files.catbox.moe/882slc.png)
 
-i made mokoIB due to lack of imageboard softwares out there i hope this engine grows and people can contribute to it one day
+i made mokuIB due to lack of imageboard softwares out there i hope this engine grows and people can contribute to it one day
 
 
 this imageboard is flat-file so no need for a database it is pretty simple to install
